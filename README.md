@@ -1,6 +1,6 @@
-# cof_tea
+# BudgetQ
 
-aplikasi mobile untuk usaha kedai Kopi dan pelanggannya
+aplikasi mobile aplikasi pencatatan transaksi keuangan pribadi
 
 ## Nama kelompok :
 1. 19220600 - Steven
@@ -9,18 +9,13 @@ aplikasi mobile untuk usaha kedai Kopi dan pelanggannya
 4. 19220659 - Ratri Wahyuningsih
 
 ## Fitur
-1. Pemilik kedai login
-2. Pemilik kedai mengelola menu minuman dan deskripsi produk
-3. Pemilik kedai mengelola transaksi penjualan
-4. pemilik kedai update profile
-5. Pelanggan dapat registrasi
-6. Pelanggan login
-7. Pelanggan dashboard
-8. Pelanggan melihat produk
-9. pelanggan melihat deskripsi produk
-10. Pelanggan melihat riwayat pemesanan
-11. Pelanggan melakukan pemesanan produk
-12. Pelanggan mencari produk
-13. Pelanggan update profile
-
-14. 
+1. Dashboard
+2. List data pemasukan
+3. Form data pemasukan
+4. List data pengeluaran
+5. Form data pengeluaran
+6. Rekap total pengeluaran
+7. Rekap total pemasukan
+8. Login
+9. Profile
+10. Ganti password
